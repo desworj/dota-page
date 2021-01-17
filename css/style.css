@@ -1,0 +1,25 @@
+body{
+	background-color:#acb2b8;
+}
+h1{
+	padding-left: 30%;
+}
+
+.text{
+	text-align: right;
+}
+.microblock{
+	padding-top: 12%;
+	padding-left: 70%;
+	font-size: 25px
+}
+div{
+	padding-right: 0%;
+}
+.card{
+	padding-right: 20%;
+	font-size: 20px;
+}
+h4{
+	font-size: 23px;
+}
